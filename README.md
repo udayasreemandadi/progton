@@ -25,7 +25,7 @@ Things you may want to cover:
 
 *Product table with price ,name ,scanned and barcode.
 * Run rake db:seed to have some sample data
-* Add Barby gem for generation of barcode for each product
+* Add Barby gem for generation of uniq barcode for each product
 *Add BarCode Concern file for bar code generation
 *Add scope method for to find scanned items
 *Write test cases for name with uniqueness and presence
